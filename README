@@ -1,0 +1,11 @@
+Server Monitor
+author: Alfonso de la Guarda Reyes
+
+License: Under GPL/v2
+
+Summary:
+Simple script which extracts system information and saves to a sqlite db, which you can export to csv.
+You can also add some additional features or events.
+
+Requires:
+mpstat
